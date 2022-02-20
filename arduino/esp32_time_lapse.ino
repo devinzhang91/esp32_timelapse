@@ -6,8 +6,8 @@
 #include "lapse.h"
 
 #if STA_MODE
-const char* ssid = "Mushroom home";
-const char* password = "19092430";
+const char* ssid = "YOUR SSID";
+const char* password = "YOUR PASSWD";
 const char* host = "esp32cam";
 #else
 const char* ssid = "esp32 timelapse";
